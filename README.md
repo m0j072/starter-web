@@ -11,3 +11,8 @@ Sample website with plenty of files for demos
 ## Deployment
 
 This section makes no sense.  But hey.
+
+
+## Summary
+
+This is the end, my friend.
