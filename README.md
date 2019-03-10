@@ -13,6 +13,13 @@ Sample website with plenty of files for demos
 This section makes no sense.  But hey.
 
 
+## What to drink
+
+Beer!  Lots of it.
+
+
 ## Summary
 
 This is the end, my friend.
+
+
