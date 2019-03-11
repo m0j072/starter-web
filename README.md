@@ -1,7 +1,6 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-Just fucking with it now.  Let's see what this does.
 
 
 ## Purpose
@@ -25,3 +24,6 @@ Bourbon.
 This is the end, my friend.
 
 
+### Copyright
+
+2019 Pornboy
