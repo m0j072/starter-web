@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-Just fucking with it now.
+Just fucking with it now.  Let's see what this does.
 
 
 ## Purpose
